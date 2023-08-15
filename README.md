@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satish Sharma</h1>
 <h3 align="center">A passionate software developer from India and currently working in Dubai, UAE.</h3>
 
-- 🌱 I’m currently learning **AI, AML, Deep learning, PyTorch and Scikit-Learn.**
+- 🌱 I’m currently learning **AI, AML, Deep learning, PyTorch and Scikit-Learn.** 
 
-- 💬 Ask me about **swift, java, kotlin,**
+- 💬 Ask me about **swift, java, kotlin, dart, swiftUI, C#**
 
 - 📫 How to reach me **ssharma.developers@gmail.com**
 

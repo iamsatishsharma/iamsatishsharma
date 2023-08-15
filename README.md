@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Satish Sharma</h1>
-<h3 align="center">A passionate software developer from India and currently working in Dubai, UAE.</h3>
+A passionate software developer offering over 11+ years of rich experience in software development. Proficient in Web-based, Mobile-based, Server-Based, ATM/STM services, and Serverless Applications development.
 
-- 🌱 I’m currently learning **AI, AML, Deep learning, PyTorch and Scikit-Learn.** 
+- 🌱 I’m currently learning **AI, AML, Deep learning, PyTorch and Scikit-Learn.**
 
-- 💬 Ask me about **swift, java, kotlin, dart, swiftUI, C#**
+- 💬 Ask me about **swift, java, kotlin,**
 
 - 📫 How to reach me **ssharma.developers@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/satishsharma1/](https://www.linkedin.com/in/satishsharma1/)
+
+- ⚡ Fun fact: I use tabs over spaces
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsatishsharma&show_icons=true&locale=en" alt="iamsatishsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsatishsharma&" alt="iamsatishsharma" /></p>
+

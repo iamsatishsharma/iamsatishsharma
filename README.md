@@ -3,7 +3,7 @@ A passionate software developer offering over 11+ years of rich experience in so
 
 - 🌱 I’m currently learning **AI, AML, Deep learning, PyTorch and Scikit-Learn.**
 
-- 💬 Ask me about **Swift, Java, Kotlin, Dart, .net core, React-native, system design, and software architecture**
+- 💬 Ask me about **Swift, Java, Kotlin, Dart, .net core, React-native, system design, microservices, and software architecture**
 
 - 📫 How to reach me **ssharma.developers@gmail.com**
 
